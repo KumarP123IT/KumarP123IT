@@ -16,15 +16,18 @@ Here are some of my recent works:
 
 1. **Blockchain Voting System (Java)**  
    - A secure and transparent voting system leveraging blockchain technology.  
-   - [View on LinkedIn](https://www.linkedin.com/in/kumar-p-bbbbb3252/)  
+   - [View on LinkedIn](https://www.linkedin.com/posts/kumar-p-bbbbb3252_blockchain-java-votingsystem-activity-7260564879181242368-gotm?utm_source=share&utm_medium=member_desktop)  
 
 2. **Online Complaint Registry (MERN)**  
    - A full-stack application for efficient complaint management using **React**, **Node.js**, **Express**, and **MongoDB**.  
-   - [GitHub Repository](https://github.com/Akashmurugan123/Online-Complain-Register-and-management-System.git)  
+   - [GitHub Repository](https://github.com/KumarP123IT/BlockChain_Voting_System.git)  
 
-3. **Web Development Projects**  
-   - Portfolio Website, Online Food Ordering, To-Do List, and more!  
-   - Built using **HTML, CSS, JavaScript**, and **MERN Stack**.  
+3. 3. **Web Development Projects**  
+   - **Portfolio Website**: Showcasing my skills, projects, and achievements.  
+   - **Online Food Ordering System**: A user-friendly web app for browsing menus and placing food orders online.  
+   - **To-Do List**: A simple yet efficient task management tool with CRUD functionality.  
+   - Built using **HTML, CSS, JavaScript**, and **MERN Stack** technologies.
+  
 
 ---
 
