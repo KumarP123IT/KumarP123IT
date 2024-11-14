@@ -22,7 +22,7 @@ Here are some of my recent works:
    - A full-stack application for efficient complaint management using **React**, **Node.js**, **Express**, and **MongoDB**.  
    - [GitHub Repository](https://github.com/KumarP123IT/BlockChain_Voting_System.git)  
 
-3. 3. **Web Development Projects**  
+3. **Web Development Projects**  
    - **Portfolio Website**: Showcasing my skills, projects, and achievements.  
    - **Online Food Ordering System**: A user-friendly web app for browsing menus and placing food orders online.  
    - **To-Do List**: A simple yet efficient task management tool with CRUD functionality.  
