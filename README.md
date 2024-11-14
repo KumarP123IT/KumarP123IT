@@ -1,12 +1,60 @@
-- 👋 Hi, I’m @KumarP123IT
-- 👀 I’m interested in web technology, DBMS, cyber engineering 
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there! I'm Kumar P  
 
-<!---
-KumarP123IT/KumarP123IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a **Full Stack Developer**, **Cybersecurity Enthusiast**, and a final-year student with a passion for building impactful applications, exploring secure architectures, and diving into networking and ethical hacking.  
+
+- 🌱 Currently learning and working on **Blockchain Voting Systems** in **Java**.  
+- 💻 Skilled in **MERN Stack**, **Python**, **Java**, **JavaScript**, **C**, and **HTML/CSS**.  
+- 🎓 Selected as a **Full Stack Developer at Gradtwin**.  
+- 💡 Conducted a workshop for juniors on **Networking**, covering protocols, OSI/TCP-IP models, and routing.  
+- 🛡️ Enthusiastic about **Cybersecurity** and **Ethical Hacking**, focusing on secure application development and network security.  
+- 🤖 Active on **HackerRank**, solving programming problems and contributing to open-source projects.  
+
+---
+
+## 🚀 My Projects  
+Here are some of my recent works:  
+
+1. **Blockchain Voting System (Java)**  
+   - A secure and transparent voting system leveraging blockchain technology.  
+   - [View on LinkedIn](https://www.linkedin.com/in/kumar-p-bbbbb3252/)  
+
+2. **Online Complaint Registry (MERN)**  
+   - A full-stack application for efficient complaint management using **React**, **Node.js**, **Express**, and **MongoDB**.  
+   - [GitHub Repository](https://github.com/Akashmurugan123/Online-Complain-Register-and-management-System.git)  
+
+3. **Web Development Projects**  
+   - Portfolio Website, Online Food Ordering, To-Do List, and more!  
+   - Built using **HTML, CSS, JavaScript**, and **MERN Stack**.  
+
+---
+
+## 🛠️ Skills  
+
+### **Frontend**  
+- React, Bootstrap, HTML5, CSS3  
+
+### **Backend**  
+- Node.js, Express.js, MongoDB, RESTful APIs  
+
+### **Programming Languages**  
+- Java, Python, JavaScript, C  
+
+### **Cybersecurity and Ethical Hacking**  
+- Kali Linux, GNOME, Network Security Tools, Penetration Testing  
+
+### **Networking**  
+- OSI Model, TCP/IP, Routing Methods, Protocol Design  
+
+### **Other Tools**  
+- Git, Axios, Postman  
+
+---
+
+## 📫 Connect with Me  
+- **LinkedIn**: [Kumar P](https://www.linkedin.com/in/kumar-p-bbbbb3252/)  
+- **GitHub**: [Kumar P's GitHub](https://github.com/KumarP123IT)  
+- **Email**: [kumarpit0807@gmail.com](mailto:kumarpit0807@gmail.com)  
+
+---
+
+⭐ **Fun Fact**: I enjoy experimenting with secure backend architectures, exploring penetration testing tools, and sharing knowledge about network protocols and system designs.  
